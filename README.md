@@ -39,3 +39,18 @@ Além de servir como projeto de aprendizado, a aplicação também foi colocada 
 ```bash
 npm install
 npm run dev
+```
+
+## Imagens do projeto
+
+### Tela principal
+![Tela principal](./Prints/TelaPrincipal.jpeg)
+
+### Tela de login
+![Tela de login](./Prints/TelaLogin.jpeg)
+
+### Adicionar clientes
+![Adicionar clientes](./Prints/AdicionarClientes.jpeg)
+
+### Histórico de clientes
+![Histórico de clientes](./Prints/HistoricoClientes.jpeg)
